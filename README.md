@@ -3,6 +3,9 @@
 
 This project is aimed at predicting the case of customers default payments in Taiwan. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients.
 
+![image](https://user-images.githubusercontent.com/85985250/173340622-98c62e4e-3c8b-4cd7-90fd-016945719521.png)
+
+
 ## Project Overview
 ### 1. Understanding Data-
 After loading the dataset, explored the data, features, head, tail, data types, info of dataset, descriptive statistics. Then we checked for null values and duplicated values.
